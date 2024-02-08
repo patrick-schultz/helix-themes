@@ -1,0 +1,18 @@
+inherits = "gruvbox-material-dark-medium"
+
+[palette]
+
+# foreground mix dark
+
+"fg0" = "#e2cca9"
+"fg1" = "#e2cca9"
+"red" = "#f2594b"
+"orange" = "#f28534"
+"yellow" = "#e9b143"
+"green" = "#b0b846"
+"aqua" = "#8bba7f"
+"blue" = "#80aa9e"
+"purple" = "#d3869b"
+"bg_red" = "#db4740"
+"bg_green" = "#b0b846"
+"bg_yellow" = "#e9b143"

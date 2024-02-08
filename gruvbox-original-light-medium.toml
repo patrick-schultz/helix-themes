@@ -1,0 +1,18 @@
+inherits = "gruvbox-material-light-medium"
+
+[palette]
+
+# foreground original light
+
+"fg0" = "#3c3836"
+"fg1" = "#3c3836"
+"red" = "#9d0006"
+"orange" = "#af3a03"
+"yellow" = "#b57614"
+"green" = "#79740e"
+"aqua" = "#427b58"
+"blue" = "#076678"
+"purple" = "#8f3f71"
+"bg_red" = "#ae5858"
+"bg_green" = "#6f8352"
+"bg_yellow" = "#a96b2c"
