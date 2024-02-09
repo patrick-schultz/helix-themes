@@ -1,0 +1,24 @@
+inherits = "gruvbox-material-light-medium"
+
+[palette]
+
+# background light soft
+
+"bg_dim" = "#ebdbb2"
+"bg0" = "#f2e5bc"
+"bg1" = "#eddeb5"
+"bg2" = "#ebdbb2"
+"bg3" = "#e6d5ae"
+"bg4" = "#dac9a5"
+"bg5" = "#d5c4a1"
+"bg_statusline1" = "#ebdbb2"
+"bg_statusline2" = "#ebdbb2"
+"bg_statusline3" = "#dac9a5"
+"bg_diff_green" = "#dfe1b4"
+"bg_visual_green" = "#d7d9ae"
+"bg_diff_red" = "#f7d9b9"
+"bg_visual_red" = "#efd2b3"
+"bg_diff_blue" = "#dbddbf"
+"bg_visual_blue" = "#d3d5b8"
+"bg_visual_yellow" = "#f3deaa"
+"bg_current_word" = "#ebdbb2"

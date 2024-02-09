@@ -1,0 +1,24 @@
+inherits = "gruvbox-original-dark-medium"
+
+[palette]
+
+# background dark soft
+
+"bg_dim" = "#252423"
+"bg0" = "#32302f"
+"bg1" = "#3c3836"
+"bg2" = "#3c3836"
+"bg3" = "#504945"
+"bg4" = "#504945"
+"bg5" = "#665c54"
+"bg_statusline1" = "#3c3836"
+"bg_statusline2" = "#46413e"
+"bg_statusline3" = "#5b534d"
+"bg_diff_green" = "#3d4220"
+"bg_visual_green" = "#424a3e"
+"bg_diff_red" = "#472322"
+"bg_visual_red" = "#543937"
+"bg_diff_blue" = "#0f3a42"
+"bg_visual_blue" = "#404946"
+"bg_visual_yellow" = "#574833"
+"bg_current_word" = "#45403d"
