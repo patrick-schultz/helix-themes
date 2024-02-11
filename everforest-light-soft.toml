@@ -2,7 +2,7 @@ inherits = "everforest-light-medium"
 
 [palette]
 
-# background light low
+# background light soft
 
 bg_dim = "#E5DFC5"
 bg0 = "#F3EAD3"

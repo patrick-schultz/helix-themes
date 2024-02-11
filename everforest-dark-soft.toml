@@ -1,0 +1,18 @@
+inherits = "everforest-dark-medium"
+
+[palette]
+
+# background dark soft
+
+"bg_dim" = "#293136"
+"bg0" = "#333c43"
+"bg1" = "#3a464c"
+"bg2" = "#434f55"
+"bg3" = "#4d5960"
+"bg4" = "#555f66"
+"bg5" = "#5d6b66"
+"bg_visual" = "#5c3f4f"
+"bg_red" = "#59464c"
+"bg_green" = "#48584e"
+"bg_blue" = "#3f5865"
+"bg_yellow" = "#55544a"
